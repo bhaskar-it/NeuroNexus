@@ -19,7 +19,8 @@ A stylish and responsive internship application form using only HTML and CSS. Th
   - Gender (Radio buttons)
 
 ## Preview
-*(Include a screenshot here if needed)*
+![image](https://github.com/user-attachments/assets/7c13218d-a0d6-4fc5-a76d-60d2dc49a282)
+
 
 ## How to Use
 1. Clone the repository
